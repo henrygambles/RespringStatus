@@ -1,7 +1,7 @@
 Package: com.yourcompany.respringstatus
 Name: RespringStatus
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Description: A tweak to let you know when your device has resprung!
 Maintainer: Henry Gambles

@@ -11,4 +11,4 @@ The tweak works by hooking into existing methods & classes within Apple's own iO
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/RespringStatus&type=Date)](https://star-history.com/#henrygambles/RespringStatus&Date)
+![Star history](.github/star-history.svg)

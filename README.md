@@ -8,3 +8,7 @@ The tweak works by hooking into existing methods & classes within Apple's own iO
 
 <img src="../master/images/pop-up.png" alt="pop-up"/>
 <img src="../master/images/cydia.png" alt="cydia"/>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/RespringStatus&type=Date)](https://star-history.com/#henrygambles/RespringStatus&Date)
